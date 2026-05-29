@@ -126,12 +126,12 @@ export const projects = [
   },
   {
     title: "Portfolio Website",
-    description: "A personal portfolio to showcase projects, skills, and blogs with dark/light mode support.",
+    description: "A clean and responsive React portfolio built to showcase my skills, projects, and experience with a modern interface and smooth performance.",
     image: projectImg4,
-    tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
-    icons: [FaReact, FaCloud],
-    demo: "#",
-    code: "#",
+    tech: ["React.js", "JavaScript", "Tailwind CSS", "Framer Motion", "Markdown"],
+    icons: [FaReact,FaJs, SiTailwindcss],
+    demo: "https://my-portfolio-d1mn.vercel.app/",
+    code: "https://github.com/Saksham13sharma/My-Portfolio",
   },
   /* {
     title: "Chat App",
